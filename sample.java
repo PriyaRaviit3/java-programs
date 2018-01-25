@@ -2,7 +2,7 @@ interface one
 {
 	public void show();
 }
-interface two extends one
+interface two extents one
 {
 	public void show1();
 }
@@ -12,7 +12,7 @@ interface three extends two
 }
 class sample1 implements three
 {
-	sample1()
+	sample()
 	 {
 		System.out.println("migen");
 	 }
@@ -29,13 +29,10 @@ class sample1 implements three
 		System.out.println("cute family");
 	 }
 }
-class demointerface
+class sample
 {
 	public static void main(String args[])
 	{
-		sample1 obj=new sample1();
-		obj.show();
-		obj.show1();
-		obj.show2();
+		sample obj=new sample();
 	}
 }
