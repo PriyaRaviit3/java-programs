@@ -1,5 +1,6 @@
 import java.awt.*;
 
+
 public class TextArea1()
 {	
 	public static void main(String args[])
