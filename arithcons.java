@@ -1,3 +1,4 @@
+
 class sample
 {
     int x,y;
