@@ -1,6 +1,5 @@
 import java.util.*;
 
-
 public class ArrayDeque
  {
 	public static void main(String args[])
@@ -17,4 +16,3 @@ public class ArrayDeque
 		   }
 	   }
  }
-
