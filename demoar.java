@@ -2,7 +2,9 @@ import java.io.*;
 
 class sample
  {
-	int x[][]=new int[2][2];int y[][]=new int[2][2];tot[][]=new int[2][2];
+	int x[][]=new int[2][2];
+	int y[][]=new int[2][2];
+	tot[][]=new int[2][2];
 	DataInputStream din;
 	sample()
 	 {
@@ -35,7 +37,7 @@ class sample
 		 }
 			for(int i=0;i<2;i++)
 			 {
-				for(int j=0;j,2;j++)
+				for(int j=0;j<2;j++)
 				 {
 				tot[i][j]=x[i][j]+y[i][j];
 				  }
