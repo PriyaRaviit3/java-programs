@@ -1,6 +1,7 @@
 import java.awt.*;
 import java.awt.event.*;
 
+
 class sun extends Frame implements ActionListener
  {
     Label l1,l2,lh;
