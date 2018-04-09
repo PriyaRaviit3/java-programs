@@ -1,6 +1,7 @@
 import java.awt.*;
 
 
+
 class sample extends Frame
  {
 	Label l1,l2,l3;
