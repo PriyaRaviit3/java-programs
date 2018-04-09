@@ -1,4 +1,5 @@
 import java.awt.*;
+
 class sample 
 {
 	sample()
