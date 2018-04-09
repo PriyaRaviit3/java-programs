@@ -1,5 +1,6 @@
 import java.io.*;
 
+
 class sample
  {
 	int x[][]=new int[2][2];
