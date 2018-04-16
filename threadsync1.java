@@ -1,4 +1,5 @@
 class callme
+	
  {
 	synchronized public void call(int x,int y)
 	{
