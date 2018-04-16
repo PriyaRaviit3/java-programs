@@ -1,6 +1,7 @@
 import java.awt.*;
 import java.awt.event.*;
 
+
 	class sample extends Frame implements ActionListener,ItemListener,MouseListener,MouseMotionListener
 		{
 			Label l1,l2;
