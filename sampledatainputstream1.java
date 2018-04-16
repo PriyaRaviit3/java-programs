@@ -1,5 +1,6 @@
 import java.io.*;	
 
+
 	class sample
 		{
 		DataInputStream din=new DataInputStream(System.in);
