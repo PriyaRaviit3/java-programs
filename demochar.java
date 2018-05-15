@@ -15,3 +15,4 @@ class demochar
 		sample obj=new sample();
 	}
 }
+
