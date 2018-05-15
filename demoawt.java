@@ -57,6 +57,7 @@ class sample extends Frame
 
 		b1.setForeground(Color.white);
 
+
 	
 		b2=new Button("Exit");
 		add(b2);
