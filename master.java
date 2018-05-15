@@ -18,3 +18,5 @@ class demomaster
 		//master obj=new master();
 	}
 }
+
+
